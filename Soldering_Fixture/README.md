@@ -1,0 +1,1 @@
+This is a simple assembly fixture to keep pins aligned while soldering. I put two layers of Kapton tape down in the areas that got hot as some protection. This is only partially effective so this fixture is good for only a few connectors unless pritned in a high-temp material.

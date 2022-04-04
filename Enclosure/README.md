@@ -1,0 +1,1 @@
+3D printed enclosure for the conenctor PCB. I printed with a 0.15mm layer height with support under the two 'prongs' that stick out.
