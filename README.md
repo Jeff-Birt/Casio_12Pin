@@ -4,4 +4,6 @@ I tried to keep the number of uncommon tools used to a minimum. A 3D printer was
 
 The special OSHpark CAM profile was used to get the plated though slots to come out correctly in Eagle.
 
-A video showing how the connector was designed can be found at: 
+A video showing how the connector was designed can be found at: https://youtu.be/ZkhR9M4t50I
+
+EDIT: 08 April, 2022 - moved holes for ribbon cable 0.050" inward.
